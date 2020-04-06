@@ -27,3 +27,159 @@ nav a {
     margin-top: 0px;
     /* display: block; */
 }
+.links {
+    width: 69%;
+    float: left;
+    height: 100%;
+    border: 3px solid white;
+    border-right: none;
+}
+.rechts {
+    width: 30%;
+    float: right;
+    height: 49%;
+    border: 3px solid white;
+}
+.article1 {
+    width: 80%;
+    margin: 0 auto;
+    height: 400px;
+}
+.article2 {
+    width: 80%;
+    margin: 0 auto;
+    height: 40px;
+    background-color: #cccccc;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+}
+.article2 b {
+    margin-left: 10px;
+}
+b {
+    color: rgb(238, 49, 228);
+}
+.all {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+}
+.all2 {
+    width: 28%;
+    margin: 0 auto;
+    display: block;
+    /* margin-top: 20px; */
+    background-color:#cccccc;
+    float: right;
+    height: 500px;
+}
+.left {
+    width: 70%;
+    margin: 0 auto;
+    display: block;
+    background-color:#cccccc;
+    float: left;
+    height: 500px;
+}
+.foto {
+    width: 30%;
+    margin: 0 auto;
+    display: block;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
+.tekst {
+    float: right;
+    margin: 0 auto;
+    display: block;
+    width: 67%;
+    margin-left: 0px;
+    margin-top: 20px;
+    /* height: 100px; */
+}
+.stukje {
+    height: 200px;
+    width: 100%;
+    background-color: #cccccc;
+    margin: 0 auto;
+    display: block;
+}
+.bar {
+    width: 100%;
+    margin: 0 auto;
+    height: 40px;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 20px solid white;
+    border-bottom: 20px solid white;
+    /* border-left: 5px solid white; */
+    border-right: 10px solid white;
+}
+.bar p {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.bar2 {
+    width: 28%;
+    margin: 0 auto;
+    height: 40px;
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-top: 20px solid white;
+    border-bottom: 20px solid white;
+    /* border-left: 5px solid white; */
+    border-right: 0px solid white;
+    float: right;
+}
+.bar2 p {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.boven {
+    width: 100%;
+    margin: 0 auto;
+}
+.fotoboven {
+    width: 90%;
+    padding: 17px;
+    /* height: 100px; */
+}
+.bredetekst {
+    padding-left: 17px;
+    padding-right: 17px;
+    width: 90%;
+
+}
+.bredep {
+    padding-left: 17px;
+    padding-right: 17px;
+    width: 90%;
+}
+.stukje2 {
+    height: 200px;
+    width: 100%;
+    background-color: #cccccc;
+    margin: 0 auto;
+    display: block;
+}
+.tekst6 {
+    float: right;
+    margin: 0 auto;
+    display: block;
+    /* width: 70%; */
+    /* margin-left: 300px; */
+}
+.foto2 {
+    width: 30%;
+    margin: 0 auto;
+    display: block;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+}
