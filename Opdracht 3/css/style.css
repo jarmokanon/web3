@@ -146,8 +146,14 @@ b {
     margin: 0 auto;
 }
 .fotoboven {
-    width: 90%;
+    width: 96%;
     padding: 17px;
+    /* height: 100px; */
+}
+.fotobovenklein {
+    width: 46%;
+    padding: 17px;
+    float: left;
     /* height: 100px; */
 }
 .bredetekst {
@@ -162,18 +168,15 @@ b {
     width: 90%;
 }
 .stukje2 {
-    height: 200px;
+    height: 100px;
     width: 100%;
     background-color: #cccccc;
     margin: 0 auto;
     display: block;
 }
-.tekst6 {
-    float: right;
-    margin: 0 auto;
-    display: block;
-    /* width: 70%; */
-    /* margin-left: 300px; */
+.float {
+    padding-top: 20px;
+    padding-left: 140px;
 }
 .foto2 {
     width: 30%;
@@ -182,4 +185,46 @@ b {
     margin-left: 20px;
     margin-top: 20px;
     float: left;
+}
+.all3 {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    /* margin-top: 20px; */
+    background-color: #cccccc;
+}
+.ja {
+    line-height: 30px;
+    padding: 5px;
+}
+.invul {
+    width: 69%;
+    height: 30px;
+    float: left;
+    color: #cccccc;
+    background-color: #cccccc;
+    border: 1px solid #acabab;
+}
+.button {
+    width: 30%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(226, 43, 211);
+    float: right;
+    border: none;
+    height: 31px;
+}
+.left2 {
+    width: 100%;
+    margin: 0 auto;
+    display: block;
+    background-color:#cccccc;
+    float: left;
+    height: auto;
+    /* margin-top: 30px; */
+}
+.tekstonderfoto {
+    padding-left: 17px;
+    width: 50%;
+    float: left;
+    padding-bottom: 10px;
 }
